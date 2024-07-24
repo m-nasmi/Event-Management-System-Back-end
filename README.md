@@ -47,25 +47,7 @@ Right-click inside the editor and select Run 'EventManagementSystemApplication'.
 Access the Application
 Once the application is running, you can access it at http://localhost:8080.
 
-Project Structure
-The project follows a standard Spring Boot structure:
-
-src/main/java: Contains the source code
-com.example.eventmanagement: Main package for the project
-controller: Contains the REST controllers
-model: Contains the entity classes
-repository: Contains the repository interfaces
-service: Contains the service classes
-EventManagementSystemApplication.java: Main class to run the Spring Boot application
-src/main/resources: Contains the application properties and other resources
-src/test/java: Contains the test cases
-Contributing
-Contributions are always welcome! Please follow the contribution guidelines to submit issues or pull requests.
-
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-Contact
+# Contact
 If you have any questions or need further information, feel free to reach out:
 
 Muhammed Nasmi
