@@ -47,9 +47,6 @@ Right-click inside the editor and select Run 'EventManagementSystemApplication'.
 Access the Application
 Once the application is running, you can access it at http://localhost:8080.
 
-API Documentation
-The API endpoints and their usage are documented using Swagger. Once the application is running, you can view the API documentation at http://localhost:8080/swagger-ui.html.
-
 Project Structure
 The project follows a standard Spring Boot structure:
 
@@ -72,5 +69,5 @@ Contact
 If you have any questions or need further information, feel free to reach out:
 
 Muhammed Nasmi
-Email: your-email@example.com
+Email: mdnsmi2442@gmail.com
 Phone: +94765232442
