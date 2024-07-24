@@ -16,7 +16,7 @@ Before you begin, ensure you have met the following requirements:
 To get a local copy up and running, clone the repository:
 
 # Configure the Database
-Install and Run XAMPP:
+## Install and Run XAMPP:
 
 Download and install XAMPP from Apache Friends.
 Start the Apache and MySQL modules from the XAMPP control panel.
